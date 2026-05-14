@@ -80,6 +80,9 @@ docker compose logs -f wordpress
 <img width="1913" height="987" alt="image" src="https://github.com/user-attachments/assets/432cac37-1d77-4068-b8c0-a9d5840ea381" />
 
 3. Tiêu đề: Giới Thiệu Bản Thân
+
+<img width="1888" height="912" alt="image" src="https://github.com/user-attachments/assets/1bb27cc5-df4c-44a8-b175-bda0cd4566d6" />
+
 4. Nội dung:
 - Thông tin cá nhân (Họ tên, Ngày sinh, MSSV, ...)
 - Sở thích, mục tiêu
